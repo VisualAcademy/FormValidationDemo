@@ -9,7 +9,7 @@
     {
       "library": "jquery-validate@1.19.2",
       "destination": "wwwroot/lib/",
-      "files": ["jquery.validate.js", "jquery.validate.min.js"]
+      "files": [ "jquery.validate.js", "jquery.validate.min.js", "additional-methods.js", "additional-methods.min.js" ]
     },
     {
       "library": "jquery-validation-unobtrusive@3.2.11",
